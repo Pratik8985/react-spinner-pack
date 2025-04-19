@@ -1,7 +1,7 @@
 {
   "name": "react-spinner-pack",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -33,5 +33,18 @@
   "files": [
     "dist"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "spinner",
+    "loader",
+    "react-spinner",
+    "react-loader",
+    "loading",
+    "react-component",
+    "ui",
+    "uikit",
+    "npm",
+    "opensource"
+  ]
 }
